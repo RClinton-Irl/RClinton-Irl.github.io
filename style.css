@@ -1,0 +1,35 @@
+@charset "utf-8";
+#header {
+    font-family: nova-mono;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 36px;
+}
+
+h1 {
+	font-size: 42px;
+	font-family: nova-mono;
+	font-style: normal;
+	font-weight: 400;
+	
+}
+body {
+	background-color: #FFA868;
+	font-family: nova-mono;
+	font-style: normal;
+	font-weight: 400;
+}
+
+p {
+    font-family: "nova-mono";
+    font-size: 2
+		0px;
+    margin-left: 37px;
+}
+#image {
+    float: right;
+    margin-right: 36px;
+    margin-top: 12px;
+    width: 592px;
+    height: 466px;
+}
